@@ -11,19 +11,25 @@ Welcome to my IT portfolio repository! This space is dedicated to showcasing my 
 
 ---
 
-## 📂 What's Inside (coming soon):
+# 📂 Repository Structure
 
-1. **📄 Documentation**  
-   - Product roadmaps, backlog management, and technical strategy documents.
-   - Project insights and decision-making processes.
-  
-2. **💻 Code Snippets and Exercises**  
-   - Coming soon: Java, Java Script, Python and other IT exercises.
-   - Automation scripts and APIs for practice purposes.
+This repository is organized into the following main directories:
 
-3. **📊 Analysis and Visualization**  
-   - Sample projects using SQL, MySQL, Power BI, and data visualization techniques.
+📁 **docs/** → Technical documentation, roadmaps, product strategy insights.  
+📁 **projects/** → Java/Python exercises, automation scripts, API projects.  
+📁 **research/** → AI/automation experiments, analytics, industry benchmarking.  
+📁 **certifications/** → Notes and study materials for AWS, ISTQB, Product Owner, and other certifications.  
 
-4. **🌐 Technical Projects**  
-   - Architecture optimization plans, system integration proposals, and case studies
+Upcoming updates will include **real-world project documentation** and **coding challenges**.
 
+## 🎯 Objectives
+	•	Showcase my IT and product management expertise with structured documentation and projects.
+	•	Develop and share practical code exercises in Python, Java, and cloud-based automation.
+	•	Document case studies, research insights, and strategic approaches in product ownership.
+	•	Use this as a growing portfolio for continuous learning and improvement.
+
+## 🌐 Connect with Me
+	•	LinkedIn: Israel Conejero Arto
+	•	Email: iconejero@gmail.com
+
+🚀 Explore the repository and feel free to reach out!
